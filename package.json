@@ -1,0 +1,27 @@
+{
+  "name": "slackbot",
+  "version": "0.0.0-8",
+  "description": "tools for slackbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agrippanux/slackbot.git"
+  },
+  "author": "Darren Craine",
+  "license": "ISC",
+  "homepage": "https://github.com/agrippanux/slackbot",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "intraday": "0.0.5",
+    "express": "~3.5.1",
+    "lodash": "~2.4.1"
+  },
+  "subdomain": "frappes-slackbot",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
