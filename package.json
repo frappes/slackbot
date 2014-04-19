@@ -18,7 +18,9 @@
     "coffee-script": "~1.7.1",
     "intraday": "0.0.5",
     "express": "~3.5.1",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "xml2js": "0.4.2",
+    "request": "2.33.0"
   },
   "subdomain": "frappes-slackbot",
   "engines": {
